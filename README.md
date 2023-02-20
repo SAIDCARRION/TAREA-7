@@ -32,5 +32,14 @@ _Estudiar los capacitores e inductores.
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/bNPS1grW/e17.png" alt="e17"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/hP0zsm7j/e18.png" alt="e18"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/htPJ5G90/e19.png" alt="e19"/></a><br/><br/>
+4)Video
+
+https://youtu.be/41zUtzAfWyQ
+
+5.Conclusiones
+
+Al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
+
+6.Bibliografía _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
 
 
